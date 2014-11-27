@@ -11,3 +11,18 @@ Check out the [OUA][oua] for more info. This repo is located on [Katie's GitHub 
 
 [github]: https://github.com/roachhd/unix
 [oua]:    http://oua.edu.au
+
+
+```javascipt
+
+var this.code blocks ()
+  Look awesome =" fuck yeah"
+```
+
+I like it a lot 
+
+----
+
+Bye 
+
+*Katie*
