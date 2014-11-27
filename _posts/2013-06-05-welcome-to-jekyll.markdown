@@ -13,11 +13,10 @@ Check out the [OUA][oua] for more info. This repo is located on [Katie's GitHub 
 [oua]:    http://oua.edu.au
 
 
-```javascipt
-
+{% highlight javascipt %}
 var this.code blocks ()
   Look awesome =" fuck yeah"
-```
+{% endhighlight %}
 
 I like it a lot 
 
